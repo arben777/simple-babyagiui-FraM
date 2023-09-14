@@ -3,14 +3,10 @@
 investor_specific_prompts = {
     "Frank Mozzicato": {
         "objectives": [
-            "Master the art of the 'Knuckleball of Doom'.",
-            "Become the 'Base-Stealing Whisperer'.",
-            "Develop the 'Seventh-Inning Zen'."
+            "Master the art of the 'Knuckleball of Doom'."
         ],
         "tasks": [
-            "Find a knuckleball guru and schedule a one-on-one session. Make sure to bring a catcher who doesn't mind a few bruises.",
-            "Analyze videos of the top 5 base stealers and note their techniques.",
-            "Book a meditation session with a Buddhist monk who's also a baseball fan."
+            "Find a knuckleball guru and schedule a one-on-one session. Make sure to bring a catcher who doesn't mind a few bruises."
         ]
     },
     "InvestorB": {
